@@ -1,4 +1,4 @@
-# Real-Time AI Gesture Recognition with TensorFlow.js + React.js + Fingerpose
+# Real-Time  Gesture Recognition with TensorFlow.js + React.js + Fingerpose Computer Vision
 
 
 ## Overview
